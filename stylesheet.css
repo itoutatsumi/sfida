@@ -1,0 +1,170 @@
+
+
+body{
+  font-family: "Hiragino Kaku Gothic ProN";
+  margin:0;
+}
+
+a{
+  text-decoration: none;
+}
+
+.top{
+  background-image: url("img/top.JPG");
+  padding:180px 0 190px 0;
+  text-align: center;
+}
+
+.container{
+  width:1100px;
+  margin:0 auto;
+  padding: 0 15px;
+}
+
+.top h1{
+  opacity: 0.8;
+  color:#BEFF15;
+  letter-spacing: 10px;
+  font-size:70px;
+  margin:0 10px 0 20px;
+
+  -webkit-text-stroke:2px #FFF;
+}
+
+
+
+
+
+
+.top p{
+  font-size:25px;
+  color:white;
+
+}
+
+.btn{
+  padding: 10px 20px;
+  color:white;
+  display: inline-block;
+  opacity:0.9;
+  border-radius:4px;
+}
+
+
+.instagram{
+  background-color: #FF66FF;
+  margin-right: 15px;
+}
+
+.twitter{
+  margin:0 18px 0 18px;
+  background-color:#55acee;
+}
+
+
+.fa{
+  margin-right:5px;
+}
+.katsudou{
+  height:400px;
+}
+
+.gaga h1{
+  color:red;
+  border-bottom: 2px solid red;
+  opacity: 0.8;
+  width:1050px;
+}
+
+.pic{
+  width:490px;
+  height:350px;
+  margin-top:20px;
+}
+
+.message{
+  letter-spacing:2px;
+  font-size:19px;
+  float:left;
+  width:45%;
+  padding-right: 60px;
+}
+
+.event {
+  padding: 50px 0 300px 0;
+  margin:0 auto;
+}
+
+.heading h1{
+  margin-top:60px;
+  color:red;
+
+  border-bottom: 2px solid red;
+  opacity: 0.8;
+  width:1050px;
+}
+
+.eve-message{
+  letter-spacing:2px;
+  font-size:19px;
+}
+
+.eve-item{
+  float:left;
+  margin:20px 35px;
+}
+
+.txt{
+  font-size:20px;
+  text-align: center;
+  margin-left: 10px;
+}
+
+
+.e{
+  width:200px;
+  height:200px;
+  border-radius:15px;
+}
+
+.president{
+  height:500px;
+}
+
+.per-message{
+  letter-spacing:2px;
+  font-size:19px;
+}
+
+.pic-tatsu img{
+  width:400px;
+  height:490px;
+  float:left;
+}
+
+
+.a-message{
+  float:left;
+  margin-left:60px;
+  letter-spacing:2px;
+  font-size:19px;
+  width:45%;
+}
+
+.a-message h1{
+  color:red;
+}
+
+.pic-c{
+  margin-top:20px;
+  margin:10px;
+  float:left;
+}
+.t{
+  text-align: center;
+}
+
+.aaaa{
+  width:100px;
+  height:100px;
+}
